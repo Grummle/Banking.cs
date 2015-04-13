@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Michael Dillon</authors>
+    <owners>Michael Dillon</owners>
+    <projectUrl>https://github.com/Grummle/Banking.cs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Horrible port of Banking.js</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>ofx banking</tags>
+  </metadata>
+</package>

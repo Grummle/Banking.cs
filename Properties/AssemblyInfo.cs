@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Banking.cs")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Horrible port of Banking.js")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("MeMyselfAndI")]
 [assembly: AssemblyProduct("Banking.cs")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
